@@ -1,3 +1,5 @@
+//Always try to follow MongoDB documention. Documentioa is avalilable in drffenent language
+
 show dbs // Show all databases
 use employees   // use employees database
 db.inventory.find() //example of fetching all documents or query
