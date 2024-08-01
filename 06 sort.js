@@ -14,7 +14,7 @@ db.inventory.find().sort({qty: 1})
 //sort descending order
 db.inventory.find().sort({qty: -1})
 
-//Paginatio using MondoDB find and limit example
+//Pagination  using MondoDB find and limit example
 //1 to 5
  no = 10
 
